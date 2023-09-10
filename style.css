@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+     font-size: 14px;
+     border: 5px solid black;
+}
+
+.navbar-text{
+    font-size: 18px;
+    color: white !important;
+}
+
+.navbar{
+    background-color: rgb(62, 131, 243);
+   
+}
+
+.list-group-item {
+
+    font-weight: 500;
+    background-color: aqua;
+}
+
+.card{
+    
+    background-color: aqua;
+} 
+
+
+
